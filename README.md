@@ -28,7 +28,7 @@ A full-stack URL shortening service with Redis caching, analytics, and a modern 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/url-shortener.git
+git clone https://github.com/varsha2176/url-shortener.git
 cd url-shortener
 ```
 
@@ -240,7 +240,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Your Name - [@yourusername](https://github.com/yourusername)
+Aruna Varsha  - [@varsha2176](https://github.com/varsha2176)
 
 ## 🙏 Acknowledgments
 
